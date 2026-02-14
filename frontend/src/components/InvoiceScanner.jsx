@@ -25,6 +25,7 @@ const InvoiceScanner = ({ onScanComplete }) => {
 
             const res = await ocrAPI.scanInvoice(formData);
             const data = res.data;
+            console.log(data);
 
             setPreview(data);
             toast.success("PDF scanned successfully!");

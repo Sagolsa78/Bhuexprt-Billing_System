@@ -1,12 +1,14 @@
-const express = require('express');
+const express = require("express");
 const router = express.Router();
 const {
-    getVendors,
-    getVendorById,
-    createVendor
-} = require('../controllers/vendorController');
+  getVendors,
+  getVendorById,
+  createVendor,
+  verifyGSTIN,
+} = require("../controllers/vendorController");
 
-router.route('/').get(getVendors).post(createVendor);
-router.route('/:id').get(getVendorById);
+router.route("/").get(getVendors).post(createVendor);
+router.route("/verify-gst").post(verifyGSTIN);
+router.route("/:id").get(getVendorById);
 
 module.exports = router;

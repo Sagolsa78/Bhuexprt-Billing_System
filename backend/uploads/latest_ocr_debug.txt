@@ -1,0 +1,53 @@
+Tax Invoice
+Shri Vishwanath Enterprises - 2024-25
+299, Kaushalpuri Colony, Near Sankat Mochan Dham,
+Gomti Nagar Ext., Khargapur Lucknow
+GSTIN/UIN: 09ALHPB9142J1ZY
+State Name : Uttar Pradesh, Code : 09
+E-Mail : shrivishwanathenterprises.sve@gmail.com
+Buyer (Bill to)
+Nidhi Interprises
+HOUSE NO 70, PATHKANA,
+NEAR BADA, MANDIR, Hamirpur,
+Uttar Pradesh, 210301
+GSTIN/UIN : 09ATOPT1886E1Z1
+State Name : Uttar Pradesh, Code : 09
+Invoice No.
+SIP/25-26/70
+Delivery Note
+Reference No. & Date.
+Buyer’s Order No.
+Dispatch Doc No.
+Dispatched through
+Dated
+18-Apr-25
+Other References
+Dated
+Delivery Note Date
+Destination
+Sl Description of Goods Amount	Disc. %	per	Rate	Quantity	GST	HSN/SAC
+No. Rate
+1 Pet Pattern 5 Kg 857.15	NOS	171.43	5 NOS	5 %	25081090
+2 Pet Pattern - Lavender 25 Kg 809.52	NOS	809.52	1 NOS	5 %	25081090
+1,666.67
+CGST 41.67
+SGST 41.67
+Less : ROUND OFF (-)0.01
+Total ī1,750.00	6 NOS
+Amount Chargeable (in words)
+INR One Thousand Seven Hundred Fifty Only
+Declaration
+We declare that this invoice shows the actual price of
+the goods described and that all particulars are true
+and correct.
+E. & O.E
+Company’s Bank Details
+Bank Name : Union Bank Of India
+A/c No. : 521301010036762
+Branch & IFS Code : Rural Housing Board Lucknow & UBIN0552135
+Customer’s Seal and Signature for Shri Vishwanath Enterprises - 2024-25
+Authorised Signatory
+This is a Computer Generated Invoice
+
+-- 1 of 1 --
+
